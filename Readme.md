@@ -6,4 +6,8 @@
  -> Aplicamos alguns conceitos interessantes para entender com funciona alguns 
  processos dentro da estrutura e aplicamos uma animação dentro desse projeto.
 
+ Meu projeto está disponivel na vercel para visualização.
+
+    link: https://tailwind-newsletter-nu.vercel.app/
+
  
